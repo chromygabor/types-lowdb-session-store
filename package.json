@@ -1,21 +1,21 @@
 {
-    "name": "types-lowdb-session-store",
-    "version": "1.0.9",
-    "description": "TypeScript definitions for lowdb-session-store",
-    "license": "MIT",
-    "contributors": [
-        {
-            "name": "Frank Hellwig",
-            "url": "https://github.com/fhellwig",
-            "githubUsername": "fhellwig"
-        }
-    ],
-    "main": "",
-    "types": "index",
-    "scripts": {},
-    "dependencies": {
-        "@types/lodash": "*",
-        "@types/express": "*",
-        "@types/express-session": "*"
+  "name": "types-lowdb-session-store",
+  "version": "0.0.1",
+  "description": "TypeScript definitions for lowdb-session-store",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Frank Hellwig",
+      "url": "https://github.com/fhellwig",
+      "githubUsername": "fhellwig"
     }
+  ],
+  "main": "",
+  "types": "index",
+  "scripts": {},
+  "dependencies": {
+    "@types/lodash": "*",
+    "@types/express": "*",
+    "@types/express-session": "*"
+  }
 }
